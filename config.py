@@ -1,1 +1,1 @@
-path = 'C://Users//Joswin//OneDrive - Archimedis Digital//'
+path = ''
